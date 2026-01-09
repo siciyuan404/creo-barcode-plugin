@@ -1,6 +1,3 @@
-# Kiro IDE files
-.kiro/
-
 # Build directories
 build/
 build_*/
