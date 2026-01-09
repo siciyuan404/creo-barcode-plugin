@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "defaultBarcodeType": "CODE_128",
+    "defaultWidth": 200,
+    "defaultHeight": 80,
+    "defaultShowText": true,
+    "defaultDpi": 300,
+    "outputDirectory": "%TEMP%/creo_barcode",
+    "recentFiles": []
+}

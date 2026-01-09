@@ -1,0 +1,28 @@
+BarcodeGenerate.Title
+Generate Barcode
+Generate Barcode
+#
+BarcodeSettings.Title
+Settings
+Settings
+#
+BarcodeBatch.Title
+Batch Process
+Batch Process
+#
+BarcodeSync.Title
+Sync Check
+Sync Check
+#
+MSG_GENERATE
+Barcode generation started!
+#
+MSG_SETTINGS
+Opening settings...
+#
+MSG_BATCH
+Batch processing started!
+#
+MSG_SYNC
+Sync check started!
+#

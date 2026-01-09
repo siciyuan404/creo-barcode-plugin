@@ -1,0 +1,90 @@
+Barcode
+条码
+#
+BarcodeMenu
+条码
+#
+Barcode_Generate
+生成条码
+#
+Barcode_Settings
+设置
+#
+Barcode_Batch
+批量处理
+#
+Barcode_SyncCheck
+同步检查
+#
+MSG_GENERATE
+条码生成已启动
+#
+MSG_SETTINGS
+打开设置
+#
+MSG_BATCH
+批量处理已启动
+#
+MSG_SYNC
+同步检查已启动
+#
+MSG_INPUT_WIDTH
+请输入条码宽度 (50-500 像素):
+#
+MSG_INPUT_HEIGHT
+请输入条码高度 (30-300 像素):
+#
+MSG_SELECT_TYPE
+请输入条码类型 (0=Code128, 1=Code39, 2=QR, 3=DataMatrix, 4=EAN13):
+#
+MSG_CONFIRM_SAVE
+确认保存? (1=是, 0=否):
+#
+MSG_CLICK_POSITION
+请在工程图中点击选择条码放置位置...
+#
+MSG_RANGE_ERROR_WIDTH
+宽度超出范围! 使用默认值。
+#
+MSG_RANGE_ERROR_HEIGHT
+高度超出范围! 使用默认值。
+#
+MSG_RANGE_ERROR_TYPE
+类型无效! 使用当前类型。
+#
+MSG_NO_DRAWING
+未打开工程图。请先打开工程图。
+#
+MSG_NO_MODEL
+请先打开模型以生成条码。
+#
+MSG_INSERT_SUCCESS
+条码已成功插入到位置 (%0d, %1d)。
+#
+MSG_INSERT_FAILED
+无法在指定位置插入条码。
+#
+MSG_SETTINGS_CANCELLED
+设置已取消。未做任何更改。
+#
+MSG_SETTINGS_SAVED
+设置已成功保存。
+#
+MSG_CURRENT_SETTINGS
+当前设置 - 类型: %0s, 宽度: %1d, 高度: %2d, DPI: %3d
+#
+MSG_NEW_SETTINGS
+新设置 - 类型: %0s, 宽度: %1d, 高度: %2d, DPI: %3d
+#
+MSG_DEFAULT_POSITION
+使用默认位置 (100, 100)。
+#
+MSG_BARCODE_GENERATED
+条码已生成: %0s
+#
+MSG_BARCODE_FAILED
+为模型生成条码失败: %0s
+#
+MSG_NOT_DRAWING_TYPE
+当前模型不是工程图。请打开工程图以插入条码。
+#

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RibbonDefinition name="Barcode">
+  <Ribbon>
+    <Tab id="BarcodeTab" label="Barcode">
+      <Group id="MainGroup" label="Main">
+        <LargeButton id="BarcodeGenCmd" label="Generate" command="BarcodeGenCmd"/>
+      </Group>
+    </Tab>
+  </Ribbon>
+</RibbonDefinition>

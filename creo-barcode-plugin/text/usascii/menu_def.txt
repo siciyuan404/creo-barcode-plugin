@@ -1,0 +1,13 @@
+! Creo Barcode Plugin Menu Definition
+! This file defines the menu structure for the plugin
+
+MENUBAR
+  MENU = "Barcode"
+    BUTTON = "GenerateBarcode" "Generate Barcode" "Generate barcode from model properties"
+    BUTTON = "BatchProcess" "Batch Process" "Process multiple models"
+    BUTTON = "SyncCheck" "Sync Check" "Check data synchronization"
+    SEPARATOR
+    BUTTON = "Settings" "Settings" "Plugin settings"
+    BUTTON = "About" "About" "About this plugin"
+  END
+END

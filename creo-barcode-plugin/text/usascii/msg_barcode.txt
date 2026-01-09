@@ -1,0 +1,90 @@
+Barcode
+Barcode
+#
+BarcodeMenu
+Barcode
+#
+Barcode_Generate
+Generate Barcode
+#
+Barcode_Settings
+Settings
+#
+Barcode_Batch
+Batch Process
+#
+Barcode_SyncCheck
+Sync Check
+#
+MSG_GENERATE
+Barcode generation started
+#
+MSG_SETTINGS
+Opening settings
+#
+MSG_BATCH
+Batch processing started
+#
+MSG_SYNC
+Sync check started
+#
+MSG_INPUT_WIDTH
+Enter barcode width (50-500 pixels):
+#
+MSG_INPUT_HEIGHT
+Enter barcode height (30-300 pixels):
+#
+MSG_SELECT_TYPE
+Enter barcode type (0=Code128, 1=Code39, 2=QR, 3=DataMatrix, 4=EAN13):
+#
+MSG_CONFIRM_SAVE
+Confirm save? (1=Yes, 0=No):
+#
+MSG_CLICK_POSITION
+Click on the drawing to select barcode placement position...
+#
+MSG_RANGE_ERROR_WIDTH
+Width out of range! Using default value.
+#
+MSG_RANGE_ERROR_HEIGHT
+Height out of range! Using default value.
+#
+MSG_RANGE_ERROR_TYPE
+Invalid type! Using current type.
+#
+MSG_NO_DRAWING
+No drawing is currently open. Please open a drawing first.
+#
+MSG_NO_MODEL
+Please open a model first to generate barcode.
+#
+MSG_INSERT_SUCCESS
+Barcode inserted successfully at position (%0d, %1d).
+#
+MSG_INSERT_FAILED
+Failed to insert barcode at the specified position.
+#
+MSG_SETTINGS_CANCELLED
+Settings cancelled. No changes made.
+#
+MSG_SETTINGS_SAVED
+Settings saved successfully.
+#
+MSG_CURRENT_SETTINGS
+Current settings - Type: %0s, Width: %1d, Height: %2d, DPI: %3d
+#
+MSG_NEW_SETTINGS
+New settings - Type: %0s, Width: %1d, Height: %2d, DPI: %3d
+#
+MSG_DEFAULT_POSITION
+Using default position (100, 100).
+#
+MSG_BARCODE_GENERATED
+Barcode generated: %0s
+#
+MSG_BARCODE_FAILED
+Failed to generate barcode for model: %0s
+#
+MSG_NOT_DRAWING_TYPE
+Current model is not a drawing. Please open a drawing to insert barcode.
+#

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RibbonDefinition name="BarcodePlugin">
+  <Ribbon>
+    <Tab id="BarcodeTab" label="Barcode">
+      <Group id="GenerateGroup" label="Generate">
+        <LargeButton id="BarcodePlugin_Generate" 
+                     label="Generate\nBarcode" 
+                     command="BarcodePlugin_Generate"/>
+      </Group>
+      <Group id="ToolsGroup" label="Tools">
+        <SmallButton id="BarcodePlugin_Settings" 
+                     label="Settings" 
+                     command="BarcodePlugin_Settings"/>
+        <SmallButton id="BarcodePlugin_Batch" 
+                     label="Batch" 
+                     command="BarcodePlugin_Batch"/>
+        <SmallButton id="BarcodePlugin_SyncCheck" 
+                     label="Sync" 
+                     command="BarcodePlugin_SyncCheck"/>
+      </Group>
+    </Tab>
+  </Ribbon>
+</RibbonDefinition>

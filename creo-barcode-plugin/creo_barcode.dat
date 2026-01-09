@@ -1,0 +1,6 @@
+NAME       creo_barcode
+EXEC_FILE  C:\Users\1000067\Documents\gitea\creo_barcode\creo-barcode-plugin\build\bin\Release\creo_barcode.dll
+TEXT_DIR   C:\Users\1000067\Documents\gitea\creo_barcode\creo-barcode-plugin\text
+STARTUP    dll
+REVISION   18
+END

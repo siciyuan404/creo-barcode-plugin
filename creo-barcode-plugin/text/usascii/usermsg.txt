@@ -1,0 +1,39 @@
+! Creo Barcode Plugin User Messages
+! Format: MESSAGE_ID %0s %1s ...
+
+BARCODE_MENU_LABEL
+Barcode
+#
+BARCODE_GENERATE
+Generate Barcode
+#
+BARCODE_SETTINGS
+Settings
+#
+BARCODE_BATCH
+Batch Process
+#
+BARCODE_SYNC_CHECK
+Sync Check
+#
+BARCODE_ABOUT
+About
+#
+MSG_SUCCESS
+Operation completed successfully.
+#
+MSG_ERROR
+An error occurred: %0s
+#
+MSG_NO_MODEL
+No model is currently active.
+#
+MSG_BARCODE_GENERATED
+Barcode generated successfully.
+#
+MSG_CONFIG_SAVED
+Configuration saved.
+#
+MSG_CONFIG_LOADED
+Configuration loaded.
+#
